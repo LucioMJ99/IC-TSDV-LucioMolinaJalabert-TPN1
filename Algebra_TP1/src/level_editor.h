@@ -1,6 +1,7 @@
 #pragma once
 
-namespace Editor {
+namespace Editor 
+{
 
 	void update();
 	void init();
