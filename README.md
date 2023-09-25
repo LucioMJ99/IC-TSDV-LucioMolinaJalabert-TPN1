@@ -1,5 +1,1 @@
-Integrantes:
-- Campos.
-- Molina Jalabert.
-- Camacho.
-- Salazar.
+Lucio Molina Jalabert
